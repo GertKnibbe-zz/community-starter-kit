@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+sike
 
 ## What it does
-
-FEATURES PLACEHOLDER
+nope
 
 ## Getting started
 
